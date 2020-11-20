@@ -5,7 +5,8 @@
         <meta http-equiv='X-UA-Compatible' content='IE=edge'>
         <link rel="stylesheet" type="text/css" href="css/reset.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<link rel="stylesheet" type="text/css" href="css/responsive.css">	
+        <link rel="stylesheet" type="text/css" href="css/responsive.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
         <title>Healthy Food</title>
         <meta name='viewport' content='width=device-width, initial-scale=1'>
         
@@ -13,29 +14,20 @@
     </head>
     <body class="body" >
         <header >
-            <div class="header">
-                <div class="logo">
-                    <a class="h3logo">Healthy Food</a>
-                </div>
-                <div class="divul">
-                    <nav class="nav">
-                        <ul class="headerul">
-                            <li class="headerli">
-                                <a href="index.html" class="a-nav"> Home</a>
-                            </li>
-                            <li class="headerli">
-                                <a href="aboutus.html" class="a-nav active"> About Us </a>
-                            </li>
-                            <li class="headerli">
-                                <a href="ourproducts.html" class="a-nav"> Our Products</a>
-                            </li>
-                            <li class="headerli">
-                                <a href="contact.html" class="a-nav"> Contact Us</a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>        
+            <div class="mobile-container">
+               <div class="topnav">
+                   <a href="index.html" class="h3logo">Healthy Food</a>
+                   <div id="myLinks">
+                       <a href="index.html">Home</a>
+                       <a href="aboutus.html">About Us</a>
+                       <a href="ourproducts.html">Our Product</a>
+                       <a href="contact.html">Contact</a>
+                   </div>
+                   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                       <i class="fa fa-bars"></i>
+                   </a>
+               </div>
+            </div>    
         </header>
         <section>
             <div class="about-wrap">
@@ -75,7 +67,7 @@
                         <a class="footer-a" href="index.html">Home</a>
                     </li>
                     <li class="footer-li">
-                        <a class="footer-a active" href="aboutus.html">About Us</a>
+                        <a class="footer-a active5" href="aboutus.html">About Us</a>
                     </li>
                     <li class="footer-li">
                         <a class="footer-a" href="catalog.pdf" target="_blank">Catalog</a>
