@@ -1,0 +1,19 @@
+@media(max-width: 1074px){.video{width: 400px;}}
+@media(max-width:915px){.historyimg{width: 400px;}}
+@media(max-width:808px){.ad-wrap{flex-wrap: wrap; justify-content: center;}}
+@media(max-width:808px){.video{margin-top: 40px;}}
+@media(max-width:690px){.pp-wrap{flex-wrap: wrap; justify-content: center;}}
+@media(max-width:690px){.pp1-wrap{margin-bottom: 40px;}}
+@media(max-width:690px){.history-wrap{flex-wrap: wrap; justify-content: center;}}
+@media(max-width:602px){.logo-footer{left: 20%;}}
+@media(max-width:594px){.home1{display: none;}}
+@media(max-width:590px){.video{width: 250px; height: 250px;}}
+@media(max-width:430px){.logo-footer{left: 10%;}}
+@media(max-width:690px){.h3logo-footer{font-size: 16px;}}
+@media(max-width:400px){.logo-footer{left: 5%;}}
+@media(max-width:420px){.footer-ul{display: block;}}
+@media(max-width:420px){.svg-footer-wrap{display: none;}}
+@media(max-width:417px){.logo-footer{display: none;}}
+@media(max-width:420px){.footer-li{margin-top: 20px; display: flex; justify-content: center;}}
+@media(max-width:452px){.pp1-wrap{border-radius: 0%; height: 50px; }}
+@media(max-width:452px){.pp1{font-size: 24px;}}
