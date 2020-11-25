@@ -24,10 +24,15 @@
 @media(max-width:1266px){.about-wrap{flex-wrap: wrap;justify-content: center;}}
 @media(max-width:375px){.video{width: 150px; height: 150px;}}
 @media(max-width:1266px){.about-wrap{margin-right: 100px;}}
-@media(max-width:900px){.span{width: 100px;}}
-@media(max-width:900px){.h1{width: 50px;}}
-@media(max-width:900px){.contactwrap{width: 50px;}}
+@media(max-width:900px){.span{width: 200px;}}
+@media(max-width:900px){.h1{width: 200px;}}
+@media(max-width:900px){.contactwrap{width: 200px;}}
 @media(max-width:1520px){.section-cat{flex-wrap: wrap; justify-content: center;}}
 @media(max-width:1520px){.catalog-wraps{flex-wrap: wrap; justify-content: center;}}
 @media(max-width:770px){.foto{width:300px}}
 @media(max-width:466px){.catalog-wraps{margin-right: 150px;}}
+@media(max-width:350px){.contactwrap{left: 10%;}}
+@media(max-width:560px){.h1-about{width:250px ;}}
+@media(max-width:560px){.h1-about{margin-right: 100px;}}
+
+
