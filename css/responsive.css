@@ -32,7 +32,7 @@
 @media(max-width:770px){.foto{width:300px}}
 @media(max-width:466px){.catalog-wraps{margin-right: 150px;}}
 @media(max-width:350px){.contactwrap{left: 10%;}}
-@media(max-width:560px){.h1-about{width:250px ;}}
-@media(max-width:560px){.h1-about{margin-right: 100px;}}
+@media(max-width:560px){.h1-about{width:250px ; left: 0%;}}
+@media(max-width:455px){.text-aboutwrap{margin-right: 150px;}}
 
 
